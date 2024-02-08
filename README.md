@@ -19,4 +19,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/6kiSdVqT1Dxs3uPgW2Psur/Landing-Page-Barber?type=design&node-id=0%3A1&mode=design&t=XxnkFp0h2WfED6Iu-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/6kiSdVqT1Dxs3uPgW2Psur/Landing-Page-Barber?type=design&node-id=0%3A1&mode=design&t=XxnkFp0h2WfED6Iu-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+
