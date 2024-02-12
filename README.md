@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um site para barbeiros e barbearias para mostrar seu trabalho, catálogos e para as pessoas entrarem em contato
 
-- [Acesse o projeto finalizado, online]( https://guipardindev.github.io/Site-Barber-Shop/)
+- [Acesse o projeto finalizado, online](https://site-barber-shop-one.vercel.app)
 
 ## 🔖 Layout
 
